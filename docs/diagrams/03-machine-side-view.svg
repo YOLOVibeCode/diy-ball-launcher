@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1290 670" width="1290" height="670" role="img" aria-labelledby="t d" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<title id="t">Whole machine, side view</title>
+<desc id="d">Side view: balls queue on a sloped PVC ramp, a star-wheel gate lets one through at a time, it rolls down a run-out into the chute and between the wheels, and the shot leaves to the left. The table tilts on a rear hinge.</desc>
+<defs>
+<marker id="da" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 1.2 10 5 0 8.8z" fill="#1d4ed8"/></marker>
+<marker id="db" viewBox="0 0 10 10" refX=".8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M10 1.2 0 5 10 8.8z" fill="#1d4ed8"/></marker>
+<marker id="fa" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 10 5 0 10z" fill="#c2410c"/></marker>
+<marker id="wa" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 10 5 0 10z" fill="#fff"/></marker>
+<marker id="ia" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 10 5 0 10z" fill="#1f2933"/></marker>
+</defs>
+<style>
+text{fill:#1f2933;font-size:13px}
+.title{font-size:21px;font-weight:700}
+.sub{font-size:13px;fill:#52606d}
+.small{font-size:11.5px;fill:#3e4c59}
+.b{font-weight:700}
+.dimt{font-size:12.5px;fill:#1d4ed8;font-weight:600}
+.ply{fill:#ecd9b4;stroke:#1f2933;stroke-width:1.2}
+.ply2{fill:#f8f1e0;stroke:#1f2933;stroke-width:1.2}
+.lumber{fill:#d7b582;stroke:#1f2933;stroke-width:1.2}
+.far{fill:#efe4cf;stroke:#9aa5b1;stroke-width:1}
+.subbase{fill:#f1f3f5;stroke:#52606d;stroke-width:1.2;stroke-dasharray:6 4}
+.subsolid{fill:#e4e7eb;stroke:#1f2933;stroke-width:1.2}
+.tire{fill:#3e4c59;stroke:#1f2933;stroke-width:1.2}
+.hub{fill:#b8c2cc;stroke:#1f2933;stroke-width:1}
+.ball{fill:#fde2b3;stroke:#c2410c;stroke-width:1.6}
+.ballg{fill:#fff6e5;stroke:#c2410c;stroke-width:1.2;stroke-dasharray:5 4}
+.motor{fill:#a9bcd6;stroke:#1f2933;stroke-width:1.2}
+.steel{fill:#b8c2cc;stroke:#1f2933;stroke-width:1}
+.pvc{fill:#e4edf6;stroke:#486581;stroke-width:1.2}
+.star{fill:#d7b582;stroke:#1f2933;stroke-width:1.2}
+.guard{fill:none;stroke:#15803d;stroke-width:2;stroke-dasharray:7 4}
+.hidden{fill:none;stroke:#52606d;stroke-width:1;stroke-dasharray:5 4}
+.ghost{fill:none;stroke:#7b8794;stroke-width:1.1;stroke-dasharray:4 4}
+.centre{stroke:#7b8794;stroke-width:.9;stroke-dasharray:12 4 2 4;fill:none}
+.ink{stroke:#1f2933;stroke-width:1.2;fill:none}
+.dim{stroke:#1d4ed8;stroke-width:1;fill:none}
+.ext{stroke:#1d4ed8;stroke-width:.6;fill:none}
+.lead{stroke:#52606d;stroke-width:.9;fill:none}
+.flow{stroke:#c2410c;stroke-width:2.4;fill:none}
+.spin{stroke:#fff;stroke-width:1.8;fill:none}
+.box{fill:#f8fafc;stroke:#1f2933;stroke-width:1.3}
+.encl{fill:#fbfcfd;stroke:#52606d;stroke-width:1.4;stroke-dasharray:9 5}
+.hot{stroke:#111827;stroke-width:2.6;fill:none}
+.neu{stroke:#8d99a6;stroke-width:2.6;fill:none}
+.gnd{stroke:#15803d;stroke-width:2.6;fill:none}
+.ap{stroke:#dc2626;stroke-width:2.6;fill:none}
+.am{stroke:#2563eb;stroke-width:2.6;fill:none}
+.vp{stroke:#ea580c;stroke-width:2.6;fill:none}
+.vm{stroke:#475569;stroke-width:2.6;fill:none}
+.halo{stroke:#fbfcfd;stroke-width:8;fill:none}
+.bal{fill:#fff;font-size:12.5px;font-weight:700}
+</style>
+<rect width="1290" height="670" fill="#ffffff"/>
+<text x="28" y="40" text-anchor="start" class="title">3 · Whole machine, side view</text>
+<text x="28" y="62" text-anchor="start" class="sub">Dimensions in inches, drawn to scale. Ramp drawn at 10 degrees. The shot leaves to the left.</text>
+<line x1="17.6" y1="520" x2="1233.6" y2="520" class="ground" />
+<path d="M231 362.7 L495.2 433.5 L496.7 428 L232.4 357.2 Z" class="ghost" />
+<path d="M240.5 356.6 L313.9 376.3 L320.8 350.6 L247.3 330.9 Z" class="ghost" />
+<line x1="229.2" y1="339.8" x2="148.5" y2="318.2" class="ghost" marker-end="url(#ia)"/>
+<rect x="200" y="514.3" width="273.6" height="5.7" rx="0" class="subsolid" />
+<rect x="200" y="430.7" width="26.6" height="83.6" rx="0" class="lumber" />
+<rect x="447" y="430.7" width="26.6" height="83.6" rx="0" class="lumber" />
+<rect x="226.6" y="487.7" width="220.4" height="26.6" rx="0" class="lumber" />
+<rect x="226.6" y="430.7" width="220.4" height="26.6" rx="0" class="lumber" />
+<rect x="200" y="425" width="273.6" height="5.7" rx="0" class="ply" />
+<rect x="229.4" y="430.7" width="32.3" height="72.2" rx="4" class="hidden" />
+<text x="271.4" y="478.2" text-anchor="start" class="small">motor (dashed)</text>
+<line x1="200" y1="442.1" x2="473.6" y2="442.1" class="hidden" />
+<rect x="207.6" y="395.7" width="76" height="26.6" rx="9" class="tire" />
+<rect x="200" y="387" width="91.2" height="38" rx="0" class="guard" />
+<rect x="211.4" y="331.9" width="3.8" height="182.4" rx="0" class="steel" />
+<rect x="202.3" y="470.6" width="22" height="11.4" rx="0" class="lumber" />
+<circle cx="473.6" cy="514.3" r="5" class="steel" />
+<circle cx="108.8" cy="409" r="33.1" class="ball" />
+<line x1="69.3" y1="409" x2="31.3" y2="409" class="flow" marker-end="url(#fa)"/>
+<rect x="528.5" y="427.4" width="10" height="92.6" rx="0" class="pvc" />
+<rect x="519.5" y="515" width="28" height="5" rx="0" class="pvc" />
+<rect x="842.8" y="372" width="10" height="148" rx="0" class="pvc" />
+<rect x="833.8" y="515" width="28" height="5" rx="0" class="pvc" />
+<rect x="1157.2" y="316.6" width="10" height="203.4" rx="0" class="pvc" />
+<rect x="1148.2" y="515" width="28" height="5" rx="0" class="pvc" />
+<rect x="472.7" y="433.1" width="729.6" height="10" rx="3" class="pvc" transform="rotate(-10.0 472.7 433.1)"/>
+<rect x="677.5" y="412.8" width="152" height="5.7" rx="3" class="ply" transform="rotate(-10.0 677.5 412.8)"/>
+<rect x="722.8" y="371.7" width="33.4" height="31.9" rx="3" class="lumber" transform="rotate(-10.0 722.8 371.7)"/>
+<rect x="677.6" y="369.5" width="121.6" height="5.7" rx="3" class="star" transform="rotate(-10.0 677.6 369.5)"/>
+<circle cx="580.8" cy="389.7" r="33.1" class="ballg" />
+<line x1="532.9" y1="398.1" x2="494" y2="405" class="flow" marker-end="url(#fa)"/>
+<circle cx="774.3" cy="355.6" r="33.1" class="ball" />
+<circle cx="839.4" cy="344.1" r="33.1" class="ball" />
+<circle cx="904.5" cy="332.6" r="33.1" class="ball" />
+<circle cx="969.7" cy="321.1" r="33.1" class="ball" />
+<circle cx="1034.8" cy="309.6" r="33.1" class="ball" />
+<circle cx="1099.9" cy="298.2" r="33.1" class="ball" />
+<line x1="200" y1="520" x2="200" y2="581" class="ext" />
+<line x1="473.6" y1="520" x2="473.6" y2="581" class="ext" />
+<line x1="200" y1="576" x2="473.6" y2="576" class="dim" marker-start="url(#db)" marker-end="url(#da)"/>
+<text x="336.8" y="570" text-anchor="middle" class="dimt">launcher 36</text>
+<line x1="473.6" y1="520" x2="473.6" y2="581" class="ext" />
+<line x1="1192.1" y1="520" x2="1192.1" y2="581" class="ext" />
+<line x1="473.6" y1="576" x2="1192.1" y2="576" class="dim" marker-start="url(#db)" marker-end="url(#da)"/>
+<text x="832.9" y="570" text-anchor="middle" class="dimt">ramp 96 long (about 95 along the ground)</text>
+<line x1="200" y1="520" x2="200" y2="611" class="ext" />
+<line x1="1192.1" y1="520" x2="1192.1" y2="611" class="ext" />
+<line x1="200" y1="606" x2="1192.1" y2="606" class="dim" marker-start="url(#db)" marker-end="url(#da)"/>
+<text x="696.1" y="600" text-anchor="middle" class="dimt">about 11 ft overall</text>
+<line x1="200" y1="425" x2="164.6" y2="425" class="ext" />
+<line x1="169.6" y1="425" x2="169.6" y2="520" class="dim" marker-start="url(#db)" marker-end="url(#da)"/>
+<text x="162.6" y="476.5" text-anchor="end" class="dimt">12-1/2</text>
+<line x1="1192.1" y1="311.3" x2="1227.1" y2="311.3" class="ext" />
+<line x1="1222.1" y1="311.3" x2="1222.1" y2="520" class="dim" marker-start="url(#db)" marker-end="url(#da)"/>
+<text x="1237.1" y="415.6" text-anchor="middle" class="dimt" transform="rotate(-90 1237.1 415.6)">top of rails about 27-1/2</text>
+<line x1="150" y1="174" x2="320.5" y2="380.8" class="lead" />
+<circle cx="320.5" cy="380.8" r="2.2" class="" fill="#52606d"/>
+<text x="36" y="150" text-anchor="start">Dashed outline: the table tilted 15 degrees.</text>
+<text x="36" y="166" text-anchor="start">The rods allow 0 to 30 degrees.</text>
+<line x1="198" y1="290" x2="213.3" y2="335.7" class="lead" />
+<circle cx="213.3" cy="335.7" r="2.2" class="" fill="#52606d"/>
+<text x="36" y="292" text-anchor="start">Threaded rod and wing nut,</text>
+<text x="36" y="308" text-anchor="start">one each side</text>
+<line x1="334" y1="222" x2="288.2" y2="388.5" class="lead" />
+<circle cx="288.2" cy="388.5" r="2.2" class="" fill="#52606d"/>
+<text x="330" y="215" text-anchor="start">Wheel guard</text>
+<line x1="560" y1="224" x2="695.6" y2="366.4" class="lead" />
+<circle cx="695.6" cy="366.4" r="2.2" class="" fill="#52606d"/>
+<text x="520" y="200" text-anchor="start">Star-wheel gate on a 12 V worm gearmotor:</text>
+<text x="520" y="216" text-anchor="start">one ball per quarter turn</text>
+<line x1="930" y1="174" x2="898.8" y2="300" class="lead" />
+<circle cx="898.8" cy="300" r="2.2" class="" fill="#52606d"/>
+<text x="880" y="150" text-anchor="start">Queue: 6 balls on two 1 in PVC rails,</text>
+<text x="880" y="166" text-anchor="start">6-1/2 in centre to centre</text>
+<line x1="640" y1="456" x2="631.9" y2="416.7" class="lead" />
+<circle cx="631.9" cy="416.7" r="2.2" class="" fill="#52606d"/>
+<text x="566" y="470" text-anchor="start">Run-out, 36 in: the ball gathers speed</text>
+<text x="566" y="486" text-anchor="start">to roll through the chute</text>
+<line x1="486" y1="540" x2="477.4" y2="514.3" class="lead" />
+<circle cx="477.4" cy="514.3" r="2.2" class="" fill="#52606d"/>
+<text x="490" y="546" text-anchor="start" class="small">Hinge: the table's rear rail to the sub-base</text>
+<text x="28" y="648" text-anchor="start" class="small">Raising the tilt lifts the chute, so the ball has to roll uphill to the wheels. For high shots, stand the ramp higher or steeper (8 to 15 degrees) until the ball still reaches the wheels.</text>
+</svg>
